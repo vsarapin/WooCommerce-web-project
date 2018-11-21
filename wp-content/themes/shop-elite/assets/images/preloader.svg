@@ -1,0 +1,18 @@
+<svg class="lds-palette-ring" width="64px" height="64px" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid"
+     style="background: none;">
+    <g transform="rotate(232 50 50)">
+        <path d="M82 50 A32 32 0 0 1 75.88854381999832 68.80912807335915" fill="none" stroke="#220b09" stroke-width="7"></path>
+        <path d="M75.88854381999832 68.80912807335915 A32 32 0 0 1 59.88854381999832 80.43380852144492" fill="none" stroke="#220b09" stroke-width="7"></path>
+        <path d="M59.88854381999832 80.43380852144492 A32 32 0 0 1 40.11145618000168 80.43380852144492" fill="none" stroke="#220b09" stroke-width="7"></path>
+        <path d="M40.11145618000168 80.43380852144492 A32 32 0 0 1 24.111456180001685 68.80912807335915" fill="none" stroke="#ff312d" stroke-width="7"></path>
+        <path d="M24.111456180001685 68.80912807335915 A32 32 0 0 1 18 50.00000000000001" fill="none" stroke="#ff312d" stroke-width="7"></path>
+        <path d="M18 50.00000000000001 A32 32 0 0 1 24.11145618000168 31.190871926640863" fill="none" stroke="#ff312d" stroke-width="7"></path>
+        <path d="M24.11145618000168 31.190871926640863 A32 32 0 0 1 40.11145618000168 19.566191478555087" fill="none" stroke="#fd3262" stroke-width="7"></path>
+        <path d="M40.11145618000168 19.566191478555087 A32 32 0 0 1 59.88854381999831 19.566191478555083" fill="none" stroke="#f0c3a9" stroke-width="7"></path>
+        <path d="M59.88854381999831 19.566191478555083 A32 32 0 0 1 75.88854381999832 31.190871926640853" fill="none" stroke="#9d9aca" stroke-width="7"></path>
+        <path d="M75.88854381999832 31.190871926640853 A32 32 0 0 1 82 49.99999999999999" fill="none" stroke="#645481" stroke-width="7"></path>
+        <animateTransform attributeName="transform" type="rotate" values="0 50 50;360 50 50" times="0;1" dur="1.5" repeatCount="indefinite">
+        </animateTransform>
+    </g>
+</svg>

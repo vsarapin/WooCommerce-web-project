@@ -1,0 +1,63 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8080
+Data file = /Users/vsarapin/programs/MAMP/apache2/htdocs/wp-content/themes/shop-elite/assets/data/shop-elite.xml
+Widget file = /Users/vsarapin/programs/MAMP/apache2/htdocs/wp-content/themes/shop-elite/assets/data/shop-elite.wie
+Customizer file = /Users/vsarapin/programs/MAMP/apache2/htdocs/wp-content/themes/shop-elite/assets/data/shop-elite.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Поиск - No Title - Widget already exists
+Свежие записи - No Title - Widget already exists
+Свежие комментарии - No Title - Widget already exists
+Архивы - No Title - Widget already exists
+Рубрики - No Title - Widget already exists
+Мета - No Title - Widget already exists
+
+Home Page Full Width Column : 
+
+SE: Woo Category - No Title - Imported
+SE: Woo Listings - Featured Products - Imported
+SE: Call To Action - Up to 70% Off - Imported
+SE: Woo Category Products - Women&#039;s Clothing - Imported
+SE: Woo Category Products - Latest Products - Imported
+SE: Posts Listings - What&#039;s Trending - Imported
+SE: Call To Action - No Title - Imported
+
+Footer Column One : 
+
+SE: Social Menu - Find Us - Imported
+
+Footer Column Two : 
+
+Свежие записи - Stay Updated - Imported
+
+Footer Column Three : 
+
+Товары - On Sale Products - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
