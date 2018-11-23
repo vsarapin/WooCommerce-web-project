@@ -587,7 +587,7 @@ input#shipping_state,
 .products mark,
 .woocommerce-MyAccount-content mark,
 .woocommerce-column__title {
-    background-color: #63c58d;
+    background-color: #63c58d !important;
     color: #fff;
 }
 

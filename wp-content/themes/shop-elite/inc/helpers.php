@@ -226,18 +226,6 @@ if ( ! function_exists( 'shop_elite_product_search_form' ) ) :
             if (!empty($product_cats) && !is_wp_error($product_cats)):
                 $selected_product_cat = get_query_var( 'product_cat' );
                 ?>
-                <div class="form-group select-category-search">
-                    <select name="product_cat">
-                        <option value=""><?php _e('&mdash; Select Category &mdash;', 'shop-elite') ?></option>
-                        <?php
-                        foreach ($product_cats as $product_cat) {
-                            ?>
-                            <option value="<?php echo esc_attr($product_cat->slug)?>" <?php selected($product_cat->slug,$selected_product_cat)?>><?php echo esc_html($product_cat->name); ?></option>
-                            <?php
-                        }
-                        ?>
-                    </select>
-                </div>
             <?php endif; ?>
             <div class="form-group">
                 <label class="screen-reader-text" for="woocommerce-product-search-field"><?php esc_html_e( 'Search for:', 'shop-elite' ); ?></label>
