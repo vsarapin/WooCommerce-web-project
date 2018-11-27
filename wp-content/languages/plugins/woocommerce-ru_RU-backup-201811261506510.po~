@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-11-22 14:39+0000\n"
+"PO-Revision-Date: 2018-11-26 15:06+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26851,7 +26851,7 @@ msgstr "Отзывы  (%d)"
 
 #: includes/wc-template-functions.php:2104
 msgid "Place order"
-msgstr "Подтвердить заказ"
+msgstr "Заказать"
 
 #: includes/wc-template-functions.php:2544
 msgid "Update country"
@@ -26866,7 +26866,7 @@ msgstr "Выберите регион&hellip;"
 #: includes/wc-template-functions.php:2773
 #: includes/wc-template-functions.php:2789
 msgid "Choose an option"
-msgstr "Выбрать опцию"
+msgstr " "
 
 #. translators: 1: rating 2: rating count
 #: includes/wc-template-functions.php:3183
@@ -27912,7 +27912,7 @@ msgstr "Искать:"
 
 #: templates/product-searchform.php:26
 msgid "Search products&hellip;"
-msgstr "Поиск по товарам&hellip;"
+msgstr "Поиск по товарам"
 
 #: templates/single-product/add-to-cart/variable.php:30
 msgid "This product is currently out of stock and unavailable."
