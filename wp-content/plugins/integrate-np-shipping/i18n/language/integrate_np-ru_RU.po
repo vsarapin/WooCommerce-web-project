@@ -1,0 +1,68 @@
+# Copyright (C) 2017 Novaposhta Shipping
+# This file is distributed under the same license as the WordPress.
+msgid ""
+msgstr ""
+"Project-Id-Version: Novaposhta Shipping\n"
+"Report-Msgid-Bugs-To: http://full-chip.come\n"
+"POT-Creation-Date: 2017-03-13 16:52:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-03-13 18:47+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
+
+#: novaposhta-shipping.php:49
+msgid "Novaposhta Shipping"
+msgstr "Доставка Новой Почтой"
+
+#: novaposhta-shipping.php:50
+msgid "Custom Shipping Method for Novaposhta"
+msgstr "Пользовательский метод доставки для Новая Почта"
+
+#: novaposhta-shipping.php:87
+msgid "Enable"
+msgstr "Включить"
+
+#: novaposhta-shipping.php:89
+msgid "Enable this shipping."
+msgstr "Включить этот метод доставки"
+
+#: novaposhta-shipping.php:94
+msgid "Title"
+msgstr "Заголовок"
+
+#: novaposhta-shipping.php:96
+msgid "Title to be display on site"
+msgstr "Заголовок для отображения в магазине"
+
+#: novaposhta-shipping.php:101
+msgid "API key"
+msgstr "ключ API"
+
+#: novaposhta-shipping.php:103
+msgid "API key for Novaposhta API"
+msgstr "API ключ для Новой Почты"
+
+#: novaposhta-shipping.php:108
+msgid "City of sender"
+msgstr "Город отправителя"
+
+#: novaposhta-shipping.php:110
+msgid "City of location of seller"
+msgstr "Город, с которого происходит отправка"
+
+#: novaposhta-shipping.php:392
+msgid "Has chosen department"
+msgstr "Было выбрано отделение"
+
+#: novaposhta-shipping.php:396
+msgid "Department has not been chosen"
+msgstr "Отделение не было выбрано"
+
+#: novaposhta-shipping.php:472
+msgid "Department of Nova Poshta"
+msgstr "Отделение Новой Почты"

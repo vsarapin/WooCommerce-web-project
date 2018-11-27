@@ -1,4 +1,0 @@
-/i18n/*.pot~
-/i18n/*.po~
-/logs/*
-!/logs/.gitkeep
