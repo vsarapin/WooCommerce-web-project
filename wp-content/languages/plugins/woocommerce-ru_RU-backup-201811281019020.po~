@@ -27912,7 +27912,7 @@ msgstr "Искать:"
 
 #: templates/product-searchform.php:26
 msgid "Search products&hellip;"
-msgstr "Поиск по товарам"
+msgstr "Поиск по товарам&hellip;"
 
 #: templates/single-product/add-to-cart/variable.php:30
 msgid "This product is currently out of stock and unavailable."

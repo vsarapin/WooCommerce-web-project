@@ -2,282 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7aa2c1b-196b-4441-9832-c92652c73951" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shop.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/akismet-ru_RU.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/akismet-ru_RU.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/akismet.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/_inc/img/logo-full-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/akismet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-admin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-cli.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-rest-api.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet-widget.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/class.akismet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/get.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/notice.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/start.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/views/stats.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/assets/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/assets/css/style.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/assets/js/jquery.autocomplete.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/assets/js/jquery.autocomplete.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/assets/js/nova-poshta-admin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/assets/js/nova-poshta-admin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/assets/js/nova-poshta.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/assets/js/nova-poshta.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/AjaxRoute.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/Area.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/Calculator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/Checkout.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/City.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/Customer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/Database.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/DatabaseScheduler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/DatabaseSync.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/Log.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/NovaPoshtaApi.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/Region.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/WC_NovaPoshta_Shipping_Method.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/Warehouse.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/base/ArrayHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/base/Base.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/base/DatabaseSync.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/base/Options.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/base/OptionsHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/repository/AbstractAreaRepository.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/repository/AreaRepositoryFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/repository/CityRepository.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/repository/RegionRepository.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/classes/repository/WarehouseRepository.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/composer.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/i18n/woo-shipping-for-nova-poshta-ru_RU.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/i18n/woo-shipping-for-nova-poshta-ru_RU.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/i18n/woo-shipping-for-nova-poshta-uk.mo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/i18n/woo-shipping-for-nova-poshta-uk.po" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/i18n/woo-shipping-for-nova-poshta.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/logs/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/autoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/composer/ClassLoader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/composer/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/composer/autoload_classmap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/composer/autoload_namespaces.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/composer/autoload_psr4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/composer/autoload_real.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/composer/autoload_static.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/composer/installed.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/.php_cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/doc/01-usage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/doc/02-handlers-formatters-processors.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/doc/03-utilities.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/doc/04-extending.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/doc/sockets.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/phpunit.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/ErrorHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/FormatterInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/AbstractSyslogHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/AmqpHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/BrowserConsoleHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/BufferHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/ChromePHPHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/CouchDBHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/CubeHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/Curl/Util.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/DeduplicationHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/DoctrineCouchDBHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/DynamoDbHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/ElasticSearchHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/ErrorLogHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/FilterHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ActivationStrategyInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/FirePHPHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/FleepHookHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/FlowdockHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/GelfHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/GroupHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/HandlerInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/HandlerWrapper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/HipChatHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/IFTTTHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/LogEntriesHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/LogglyHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/MailHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/MandrillHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/MissingExtensionException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/MongoDBHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/NativeMailerHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/NewRelicHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/NullHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/PHPConsoleHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/PsrHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/PushoverHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/RavenHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/RedisHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/RollbarHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/SamplingHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/Slack/SlackRecord.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/SlackHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/SlackWebhookHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/SlackbotHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/SocketHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/StreamHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/SwiftMailerHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/SyslogHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/SyslogUdp/UdpSocket.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/SyslogUdpHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/TestHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/WhatFailureGroupHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Handler/ZendMonitorHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Logger.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/src/Monolog/Registry.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/ErrorHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Formatter/ChromePHPFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Formatter/ElasticaFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Formatter/FlowdockFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Formatter/FluentdFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Formatter/GelfMessageFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Formatter/JsonFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Formatter/LineFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Formatter/LogglyFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Formatter/LogstashFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Formatter/MongoDBFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Formatter/NormalizerFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Formatter/ScalarFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Formatter/WildfireFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/AbstractHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/AbstractProcessingHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/AmqpHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/BrowserConsoleHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/BufferHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/ChromePHPHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/CouchDBHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/DeduplicationHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/DoctrineCouchDBHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/DynamoDbHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/ElasticSearchHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/ErrorLogHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/FilterHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/FingersCrossedHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/FirePHPHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/Fixtures/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/FleepHookHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/FlowdockHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerLegacyTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/GelfHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/GelfMockMessagePublisher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/GroupHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/HandlerWrapperTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/HipChatHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/LogEntriesHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/MailHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/MockRavenClient.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/MongoDBHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/NativeMailerHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/NewRelicHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/NullHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/PHPConsoleHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/PsrHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/PushoverHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/RavenHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/RedisHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/RollbarHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/RotatingFileHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/SamplingHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/Slack/SlackRecordTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/SlackHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/SlackWebhookHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/SlackbotHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/SocketHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/StreamHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/SwiftMailerHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/SyslogHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/SyslogUdpHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/TestHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/UdpSocketTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/WhatFailureGroupHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Handler/ZendMonitorHandlerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/LoggerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Processor/GitProcessorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Processor/IntrospectionProcessorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Processor/MemoryPeakUsageProcessorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Processor/MemoryUsageProcessorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Processor/MercurialProcessorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Processor/ProcessIdProcessorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Processor/PsrLogMessageProcessorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Processor/TagProcessorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Processor/UidProcessorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/Processor/WebProcessorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/PsrLogCompatTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/RegistryTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/monolog/monolog/tests/Monolog/TestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/psr/log/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/psr/log/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/psr/log/Psr/Log/AbstractLogger.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/psr/log/Psr/Log/InvalidArgumentException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/psr/log/Psr/Log/LogLevel.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/psr/log/Psr/Log/LoggerAwareInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/psr/log/Psr/Log/LoggerAwareTrait.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/psr/log/Psr/Log/LoggerInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/psr/log/Psr/Log/LoggerTrait.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/psr/log/Psr/Log/NullLogger.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/psr/log/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/psr/log/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/sergeynezbritskiy/nova-poshta-api-2/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/sergeynezbritskiy/nova-poshta-api-2/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/sergeynezbritskiy/nova-poshta-api-2/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/sergeynezbritskiy/nova-poshta-api-2/src/Delivery/NovaPoshtaApi2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/sergeynezbritskiy/nova-poshta-api-2/src/Delivery/NovaPoshtaApi2Areas.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/vendor/sergeynezbritskiy/nova-poshta-api-2/tests/NovaPoshtaApi2Test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-shipping-for-nova-poshta/woo-shipping-for-nova-poshta.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/woocommerce-ru_RU.mo" afterPath="$PROJECT_DIR$/wp-content/languages/plugins/woocommerce-ru_RU.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/languages/plugins/woocommerce-ru_RU.po" afterPath="$PROJECT_DIR$/wp-content/languages/plugins/woocommerce-ru_RU.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-cart-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-cart-functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/class-xcloner-admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/class-xcloner-admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/css/xcloner-admin.css" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/css/xcloner-admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/js/xcloner-admin.js" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/js/xcloner-admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/js/xcloner-backup-class.js" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/js/xcloner-backup-class.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/js/xcloner-manage-backups-class.js" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/js/xcloner-manage-backups-class.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_console_page.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_console_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_generate_backups_page.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_generate_backups_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_init_page.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_init_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_manage_backups_page.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_manage_backups_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_remote_storage_page.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_remote_storage_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_restore_page.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_restore_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_scheduled_backups_page.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/admin/partials/xcloner_scheduled_backups_page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/composer.json" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/composer.lock" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-activator.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-activator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-api.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-archive.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-archive.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-deactivator.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-deactivator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-file-system.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-file-system.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-file-transfer.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-file-transfer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-i18n.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-i18n.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-loader.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-loader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-logger.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-logger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-remote-storage.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-remote-storage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-requirements.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-requirements.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-sanitization.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-sanitization.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-scheduler.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-scheduler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-settings.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner-settings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/includes/class-xcloner.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/public/class-xcloner-public.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/public/class-xcloner-public.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/composer/ClassLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/composer/LICENSE" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/composer/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/composer/autoload_files.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/composer/autoload_psr4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/composer/autoload_static.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/composer/installed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/.gitignore" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/.scrutinizer.yml" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/.scrutinizer.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/.travis.yml" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/README.md" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/composer.json" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/src/BackblazeAdapter.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/src/BackblazeAdapter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/tests/BackblazeAdapterTests.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/mhetreramesh/flysystem-backblaze/tests/BackblazeAdapterTests.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/splitbrain/php-archive/src/Tar.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/vendor/splitbrain/php-archive/src/Tar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/xcloner.php" afterPath="$PROJECT_DIR$/wp-content/plugins/xcloner-backup-and-restore/xcloner.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/shop-elite/inc/helpers.php" afterPath="$PROJECT_DIR$/wp-content/themes/shop-elite/inc/helpers.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/shop-elite/inc/wishlist/wishlist.php" afterPath="$PROJECT_DIR$/wp-content/themes/shop-elite/inc/wishlist/wishlist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/shop-elite/inc/woocommerce/woocommerce.php" afterPath="$PROJECT_DIR$/wp-content/themes/shop-elite/inc/woocommerce/woocommerce.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -288,14 +65,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="integrate-np-shipping.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/integrate-np-shipping/js/integrate-np-shipping.js">
+      <file leaf-file-name="wc-cart-functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-cart-functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="42" lean-forward="true" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+            <state relative-caret-position="393">
+              <caret line="122" column="158" lean-forward="false" selection-start-line="122" selection-start-column="158" selection-end-line="122" selection-end-column="158" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin-ru_RU.po" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/languages/admin-ru_RU.po">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="693" column="14" lean-forward="false" selection-start-line="693" selection-start-column="14" selection-end-line="693" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="woocommerce.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/shop-elite/inc/woocommerce/woocommerce.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="932">
+              <caret line="489" column="34" lean-forward="false" selection-start-line="489" selection-start-column="34" selection-end-line="489" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wc-template-functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="1965" column="7" lean-forward="true" selection-start-line="1965" selection-start-column="7" selection-end-line="1965" selection-end-column="7" />
               <folding>
-                <marker date="1543322146000" expanded="true" signature="8139:8152" ph="..." />
-                <marker date="1543322146000" expanded="true" signature="8226:8232" ph=" " />
+                <marker date="1543404196000" expanded="true" signature="23117:23166" ph="..." />
+                <marker date="1543404196000" expanded="true" signature="73629:73635" ph=" " />
+                <marker date="1543404196000" expanded="true" signature="76941:76954" ph="..." />
               </folding>
             </state>
           </provider>
@@ -313,6 +121,21 @@
       <find>ui-id-1</find>
       <find>ui-front</find>
       <find>ui-dia</find>
+      <find>add</find>
+      <find>icon</find>
+      <find>generate_form</find>
+      <find>$productinfo</find>
+      <find>has been added to your cart.</find>
+      <find>добавлен в корзину</find>
+      <find>cart items</find>
+      <find>view cart</find>
+      <find>has been added to your wishist.</find>
+      <find>TO WISHLIST</find>
+      <find>VIEW WISHLIST</find>
+      <find>search products...</find>
+      <find>в корзину</find>
+      <find>button wc-forward</find>
+      <find>посмотреть</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -324,6 +147,11 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui.min.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/integrate-np-shipping/css/integrate-np-shipping.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/integrate-np-shipping/js/integrate-np-shipping.js" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/without-payment-for-woocommerce/with-geteway-index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/shop-elite/inc/helpers.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-cart-functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/shop-elite/inc/woocommerce/woocommerce.php" />
       </list>
     </option>
   </component>
@@ -335,7 +163,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="884" />
+    <option name="x" value="1082" />
     <option name="y" value="23" />
     <option name="width" value="1448" />
     <option name="height" value="1337" />
@@ -380,23 +208,7 @@
               <item name="WooCommerce-web-project" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="integrate-np-shipping" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="WooCommerce-web-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WooCommerce-web-project" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="integrate-np-shipping" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="WooCommerce-web-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WooCommerce-web-project" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="integrate-np-shipping" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="without-payment-for-woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -430,33 +242,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543318790194</updated>
-      <workItem from="1543318800627" duration="2983000" />
+      <workItem from="1543318800627" duration="3227000" />
+      <workItem from="1543390505216" duration="3569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2983000" />
+    <option name="totallyTimeSpent" value="6796000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="884" y="23" width="1448" height="1337" extended-state="0" />
+    <frame x="1082" y="23" width="1448" height="1337" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -471,19 +284,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/integrate-np-shipping/integrate-np-shipping.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3676">
-          <caret line="289" column="53" lean-forward="true" selection-start-line="289" selection-start-column="53" selection-end-line="289" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/js/jquery/ui/dialog.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="10" column="5090" lean-forward="false" selection-start-line="10" selection-start-column="5090" selection-end-line="10" selection-end-column="5090" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -492,8 +296,8 @@
         <state relative-caret-position="300">
           <caret line="6" column="586" lean-forward="false" selection-start-line="6" selection-start-column="586" selection-end-line="6" selection-end-column="586" />
           <folding>
-            <element signature="e#8973#9058#2" expanded="true" />
-            <element signature="e#9586#11935#2" expanded="true" />
+            <element signature="e#8973#9058#2" expanded="false" />
+            <element signature="e#9586#11935#2" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -502,18 +306,100 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shop-elite/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="133" column="21" lean-forward="true" selection-start-line="133" selection-start-column="21" selection-end-line="133" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/integrate-np-shipping/integrate-np-shipping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6949">
+          <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/without-payment-for-woocommerce/without.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/integrate-np-shipping/js/integrate-np-shipping.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="42" lean-forward="true" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+        <state relative-caret-position="278">
+          <caret line="56" column="56" lean-forward="false" selection-start-line="56" selection-start-column="56" selection-end-line="56" selection-end-column="56" />
           <folding>
             <marker date="1543322146000" expanded="true" signature="8139:8152" ph="..." />
             <marker date="1543322146000" expanded="true" signature="8226:8232" ph=" " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="1030" column="58" lean-forward="true" selection-start-line="1030" selection-start-column="58" selection-end-line="1030" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/without-payment-for-woocommerce/with-geteway-index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="187" column="13" lean-forward="true" selection-start-line="187" selection-start-column="13" selection-end-line="187" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shop-elite/inc/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="198" column="13" lean-forward="true" selection-start-line="198" selection-start-column="13" selection-end-line="198" selection-end-column="13" />
+          <folding>
+            <element signature="e#7377#7399#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="1965" column="7" lean-forward="true" selection-start-line="1965" selection-start-column="7" selection-end-line="1965" selection-end-column="7" />
+          <folding>
+            <marker date="1543404196000" expanded="true" signature="23117:23166" ph="..." />
+            <marker date="1543404196000" expanded="true" signature="73629:73635" ph=" " />
+            <marker date="1543404196000" expanded="true" signature="76941:76954" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-cart-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="122" column="158" lean-forward="false" selection-start-line="122" selection-start-column="158" selection-end-line="122" selection-end-column="158" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/admin-ru_RU.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="693" column="14" lean-forward="false" selection-start-line="693" selection-start-column="14" selection-end-line="693" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shop-elite/inc/woocommerce/woocommerce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="932">
+          <caret line="489" column="34" lean-forward="false" selection-start-line="489" selection-start-column="34" selection-end-line="489" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>

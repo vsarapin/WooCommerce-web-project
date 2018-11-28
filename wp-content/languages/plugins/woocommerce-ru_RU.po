@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-11-26 15:06+0000\n"
+"PO-Revision-Date: 2018-11-28 10:19+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25943,7 +25943,7 @@ msgstr "Этот товар защищён и не может быть купл�
 #: includes/wc-cart-functions.php:116
 msgid "%s has been added to your cart."
 msgid_plural "%s have been added to your cart."
-msgstr[0] "Вы отложили %s в свою корзину."
+msgstr[0] "Вы отложили %s в свою корзину"
 msgstr[1] "Вы отложили %s в свою корзину."
 msgstr[2] "Вы отложили %s в свою корзину."
 

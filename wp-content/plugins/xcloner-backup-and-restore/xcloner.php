@@ -15,7 +15,7 @@
  * Plugin Name:       XCloner - Site Backup and Restore
  * Plugin URI:        http://www.xcloner.com
  * Description:       XCloner is a tool that will help you manage your website backups, generate/restore/move so your website will be always secured! With XCloner you will be able to clone your site to any other location with just a few clicks, as well as transfer the backup archives to remote FTP, SFTP, DropBox, Amazon S3, Google Drive, WebDAV, Backblaze, Azure accounts.
- * Version:           4.0.8
+ * Version:           4.0.9
  * Author:            Liuta Ovidiu
  * Author URI:        http://www.thinkovi.com
  * License:           GPL-2.0+
@@ -30,20 +30,19 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 //i will not load the plugin outside admin or cron
-if(!is_admin() and !defined('DOING_CRON'))
+if ( ! is_admin() and ! defined( 'DOING_CRON' ) ) {
 	return;
+}
 
-if(!defined("DS"))
-{
-	define("DS", DIRECTORY_SEPARATOR);
+if ( ! defined( "DS" ) ) {
+	define( "DS", DIRECTORY_SEPARATOR );
 }
 
 /**
  * The code that runs during plugin activation.
  * This action is documented in includes/class-xcloner-activator.php
  */
-function activate_xcloner() 
-{
+function activate_xcloner() {
 	require_once plugin_dir_path( __FILE__ ) . 'includes/class-xcloner-activator.php';
 	Xcloner_Activator::activate();
 }
@@ -52,8 +51,7 @@ function activate_xcloner()
  * The code that runs during plugin deactivation.
  * This action is documented in includes/class-xcloner-deactivator.php
  */
-function deactivate_xcloner() 
-{
+function deactivate_xcloner() {
 	require_once plugin_dir_path( __FILE__ ) . 'includes/class-xcloner-deactivator.php';
 	Xcloner_Deactivator::deactivate();
 }
@@ -61,43 +59,40 @@ function deactivate_xcloner()
 register_activation_hook( __FILE__, 'activate_xcloner' );
 register_deactivation_hook( __FILE__, 'deactivate_xcloner' );
 
-require_once plugin_dir_path( __FILE__ ) . 'includes/class-xcloner-activator.php';	
+require_once plugin_dir_path( __FILE__ ) . 'includes/class-xcloner-activator.php';
 
-if(version_compare(phpversion(), Xcloner_Activator::xcloner_minimum_version, '<'))
-{
+if ( version_compare( phpversion(), Xcloner_Activator::xcloner_minimum_version, '<' ) ) {
 	?>
-	<div class="error notice">
-		<p><?php echo sprintf(__("XCloner requires minimum PHP version %s in order to run correctly. We have detected your version as %s. Plugin is now deactivated."),Xcloner_Activator::xcloner_minimum_version, phpversion())?></p>
-	</div>
-	<?php	
+    <div class="error notice">
+        <p><?php echo sprintf( __( "XCloner requires minimum PHP version %s in order to run correctly. We have detected your version as %s. Plugin is now deactivated." ), Xcloner_Activator::xcloner_minimum_version, phpversion() ) ?></p>
+    </div>
+	<?php
 	require_once( ABSPATH . 'wp-admin/includes/plugin.php' );
 	deactivate_plugins( plugin_basename( __FILE__ ) );
+
 	return;
-}		
-		
-$db_installed_ver = get_option( "xcloner_db_version" );
+}
+
+$db_installed_ver   = get_option( "xcloner_db_version" );
 $xcloner_db_version = Xcloner_Activator::xcloner_db_version;
 
-if($db_installed_ver != $xcloner_db_version)
-{
+if ( $db_installed_ver != $xcloner_db_version ) {
 	Xcloner_Activator::activate();
 }
-	
-	
+
+
 /**
  * The core plugin class that is used to define internationalization,
  * admin-specific hooks, and public-facing site hooks.
  */
 
 function xcloner_stop_heartbeat() {
-	wp_deregister_script('heartbeat');
+	wp_deregister_script( 'heartbeat' );
 }
 
-if(isset($_GET['page']) and stristr($_GET['page'] ,  "xcloner_"))
-{
+if ( isset( $_GET['page'] ) and stristr( $_GET['page'], "xcloner_" ) ) {
 	add_action( 'init', 'xcloner_stop_heartbeat', 1 );
-	
-}	
+}
 
 /**
  * Begins execution of the plugin.
@@ -108,33 +103,26 @@ if(isset($_GET['page']) and stristr($_GET['page'] ,  "xcloner_"))
  *
  * @since    1.0.0
  */
-function run_xcloner() 
-{
+function run_xcloner() {
 	$plugin = new Xcloner();
 	$plugin->check_dependencies();
 	$plugin->init();
 	$plugin->run();
-	
-	return $plugin;
 
+	return $plugin;
 }
 
-require_once(plugin_dir_path( __FILE__ )  . '/vendor/autoload.php');
+require_once( plugin_dir_path( __FILE__ ) . '/vendor/autoload.php' );
 require plugin_dir_path( __FILE__ ) . 'includes/class-xcloner.php';
 
-try{
-	
+try {
 	$xcloner_plugin = run_xcloner();
-	
-}catch(Exception $e){
-	
+} catch ( Exception $e ) {
 	echo $e->getMessage();
-	
 }
 
 /*
 if(isset($_GET['page']) && $_GET['page'] == "xcloner_pre_auto_update")
 {
-	wp_maybe_auto_update();
+    wp_maybe_auto_update();
 }*/
-

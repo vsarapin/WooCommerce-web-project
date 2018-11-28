@@ -68,13 +68,13 @@ if( ! function_exists( 'shop_elite_display_wishlist_message' ) ) {
                     $product_id = $details['add_to_wishlist'];
                     $product = wc_get_product($product_id);
                     if (!is_wp_error($product)) {
-                        $product_title = sprintf(__('%s has been added to your wishist.', 'shop-elite'), '<strong>'.$product->get_title().'</strong>');
+                        $product_title = sprintf(__('%s добавлено в список желаемого.', 'shop-elite'), '<strong>'.$product->get_title().'</strong>');
                         $product_image = $product->get_image();
 
                         ob_start();
                         ?>
                         <div class="saga-notification-header">
-                            <h3><?php _e('WishList Items', 'shop-elite')?></h3>
+                            <h3><?php _e('список желаемого', 'shop-elite')?></h3>
                         </div>
                         <div class="saga-notification">
                             <div class="saga-notification-image">
@@ -86,7 +86,7 @@ if( ! function_exists( 'shop_elite_display_wishlist_message' ) ) {
                         </div>
                         <div class="saga-notification-button">
                             <a href="<?php echo esc_url( YITH_WCWL()->get_wishlist_url());?>">
-                                <?php _e('View Wishlist', 'shop-elite')?>
+                                <?php _e('к списку', 'shop-elite')?>
                             </a>
                         </div>
 

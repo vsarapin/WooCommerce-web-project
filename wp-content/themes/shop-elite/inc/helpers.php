@@ -229,9 +229,9 @@ if ( ! function_exists( 'shop_elite_product_search_form' ) ) :
             <?php endif; ?>
             <div class="form-group">
                 <label class="screen-reader-text" for="woocommerce-product-search-field"><?php esc_html_e( 'Search for:', 'shop-elite' ); ?></label>
-                <input type="search" id="woocommerce-product-search-field" class="search-field" placeholder="<?php echo esc_attr__( 'Search products&hellip;', 'shop-elite' ); ?>" value="<?php echo get_search_query(); ?>" name="s" />
+                <input type="search" id="woocommerce-product-search-field" class="search-field" placeholder="<?php echo esc_attr__( 'Что ищем?', 'shop-elite' ); ?>" value="<?php echo get_search_query(); ?>" name="s" />
             </div>
-            <button type="submit" value="<?php echo esc_attr_x( 'Search', 'submit button', 'shop-elite' ); ?>"><?php echo esc_html_x( 'Search', 'submit button', 'shop-elite' ); ?></button>
+            <button type="submit" style="outline: none;" value="<?php echo esc_attr_x( 'Search', 'submit button', 'shop-elite' ); ?>"><?php echo esc_html_x( 'Поиск', 'submit button', 'shop-elite' ); ?></button>
             <input type="hidden" name="post_type" value="product" />
         </form>
         <?php

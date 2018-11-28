@@ -467,7 +467,7 @@ if (!function_exists('shop_elite_add_to_cart_fragments')){
 
         if( $product ){
             $product_image = $product->get_image();
-            $product_title = sprintf(__('%s has been added to your cart.', 'shop-elite'), '<strong>'.$product->get_title().'</strong>');
+            $product_title = sprintf(__('%s добавлено в корзину.', 'shop-elite'), '<strong>'.$product->get_title().'</strong>');
         }else{
             $product_title =  __( 'Product Added to cart', 'shop-elite' );
         }
@@ -475,7 +475,7 @@ if (!function_exists('shop_elite_add_to_cart_fragments')){
         ob_start();
         ?>
         <div class="saga-notification-header">
-            <h3><?php _e('Cart Items', 'shop-elite')?></h3>
+            <h3><?php _e('Корзина', 'shop-elite')?></h3>
         </div>
         <div class="saga-notification">
             <div class="saga-notification-image">
@@ -487,7 +487,7 @@ if (!function_exists('shop_elite_add_to_cart_fragments')){
         </div>
         <div class="saga-notification-button">
             <a href="<?php echo esc_url( get_permalink( wc_get_page_id( 'cart' )) );?>">
-                <?php _e('View Cart', 'shop-elite');?>
+                <?php _e('просмотр', 'shop-elite');?>
             </a>
         </div>
 
