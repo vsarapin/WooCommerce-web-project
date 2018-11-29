@@ -82,7 +82,6 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
                     $city = array();
 
                     if (isset($this->settings['api_key'])) {
-
                         $raw_city = $this->getListOfCity();
 
                         foreach ($raw_city as $key => $value) {

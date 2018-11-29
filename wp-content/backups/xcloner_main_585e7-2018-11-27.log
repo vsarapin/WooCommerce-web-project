@@ -1,1 +1,0 @@
-[2018-11-27 07:57:44] php_system.INFO: E_WARNING: array (   'type' => 2,   'message' => 'closedir() expects parameter 1 to be resource, boolean given',   'file' => '/Users/vsarapin/programs/MAMP/apache2/htdocs/wp-admin/includes/file.php',   'line' => 168, ) [] []

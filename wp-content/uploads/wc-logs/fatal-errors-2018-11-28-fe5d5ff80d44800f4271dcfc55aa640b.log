@@ -1,0 +1,10 @@
+2018-11-28T16:02:27+00:00 CRITICAL Uncaught Error: Call to undefined function mailchimp_clean_database() in /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/plugins/mailchimp-for-woocommerce/uninstall.php:52
+Stack trace:
+#0 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/plugins/mailchimp-for-woocommerce/uninstall.php(56): mailchimp_woocommerce_uninstall()
+#1 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-admin/includes/plugin.php(1018): include('/Users/vsarapin...')
+#2 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-admin/includes/plugin.php(831): uninstall_plugin('mailchimp-for-w...')
+#3 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-admin/includes/ajax-actions.php(3912): delete_plugins(Array)
+#4 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(286): wp_ajax_delete_plugin('')
+#5 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#6 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/plugin.php(453): WP_Hook- в /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/plugins/mailchimp-for-woocommerce/uninstall.php на строке 52
+
