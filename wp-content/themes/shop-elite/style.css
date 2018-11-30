@@ -1647,7 +1647,7 @@ nav.navigation.pagination {
 .site-footer:before,
 .site-footer:after {
     content: "";
-    display: table;
+    display: flex;
     table-layout: fixed;
 }
 

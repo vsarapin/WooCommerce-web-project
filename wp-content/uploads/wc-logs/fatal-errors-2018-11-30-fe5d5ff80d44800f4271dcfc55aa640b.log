@@ -1,0 +1,42 @@
+2018-11-30T14:53:23+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_breadcrumb() in /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/themes/shop-elite/inc/hooks/header.php:476
+Stack trace:
+#0 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(286): shop_elite_display_breadcrumb('')
+#1 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/themes/shop-elite/header.php(51): do_action('shop_elite_befo...')
+#4 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/template.php(688): require_once('/Users/vsarapin...')
+#5 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/template.php(647): load_template('/Users/vsarapin...', true)
+#6 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/general-template.php(41): locate_template(Array, true)
+# в /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/themes/shop-elite/inc/hooks/header.php на строке 476
+
+2018-11-30T14:53:24+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_breadcrumb() in /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/themes/shop-elite/inc/hooks/header.php:476
+Stack trace:
+#0 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(286): shop_elite_display_breadcrumb('')
+#1 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/themes/shop-elite/header.php(51): do_action('shop_elite_befo...')
+#4 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/template.php(688): require_once('/Users/vsarapin...')
+#5 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/template.php(647): load_template('/Users/vsarapin...', true)
+#6 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/general-template.php(41): locate_template(Array, true)
+# в /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/themes/shop-elite/inc/hooks/header.php на строке 476
+
+2018-11-30T14:54:32+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_order_review() in /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:339
+Stack trace:
+#0 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(286): WC_AJAX::update_order_review('')
+#1 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(78): do_action('wc_ajax_update_...')
+#4 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(286): WC_AJAX::do_wc_ajax('')
+#5 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(false, Array)
+#6 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/plugin.php(453): WP_Hook->do_action(A в /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/plugins/woocommerce/includes/class-wc-ajax.php на строке 339
+
+2018-11-30T14:55:09+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_checkout_payment() in /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:344
+Stack trace:
+#0 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(286): WC_AJAX::update_order_review('')
+#1 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(78): do_action('wc_ajax_update_...')
+#4 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(286): WC_AJAX::do_wc_ajax('')
+#5 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(false, Array)
+#6 /Users/vsarapin/Desktop/WooCommerce-web-project/wp-includes/plugin.php(453): WP_Hook->do_acti в /Users/vsarapin/Desktop/WooCommerce-web-project/wp-content/plugins/woocommerce/includes/class-wc-ajax.php на строке 344
+
